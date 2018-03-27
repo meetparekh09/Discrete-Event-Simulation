@@ -1,3 +1,5 @@
+This is a project implemented to simulate various scheduling strategies in discrete events abstraction.
+
 Makefile generates a executable 'sched'. Call to the 'sched' is same as specified in the requirements along with the options.
 
 command to generate executable:
